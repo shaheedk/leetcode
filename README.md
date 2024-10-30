@@ -6,4 +6,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/shaheedk/leetcode/tree/master/2383-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
