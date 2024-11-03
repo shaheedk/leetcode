@@ -25,4 +25,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
+| [2580-circular-sentence](https://github.com/shaheedk/leetcode/tree/master/2580-circular-sentence) |
 <!---LeetCode Topics End-->
