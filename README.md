@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
+| [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Simulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
+| [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Bit Manipulation
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
