@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
+| [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
