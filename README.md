@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/shaheedk/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shaheedk/leetcode/tree/master/0326-power-of-three) |
 | [2383-add-two-integers](https://github.com/shaheedk/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/shaheedk/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/shaheedk/leetcode/tree/master/2556-convert-the-temperature) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shaheedk/leetcode/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
 | ------- |
