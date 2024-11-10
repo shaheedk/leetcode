@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/shaheedk/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaheedk/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
 | [2383-add-two-integers](https://github.com/shaheedk/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/shaheedk/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
