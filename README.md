@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/shaheedk/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaheedk/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shaheedk/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shaheedk/leetcode/tree/master/0326-power-of-three) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shaheedk/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/shaheedk/leetcode/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
 | [2580-circular-sentence](https://github.com/shaheedk/leetcode/tree/master/2580-circular-sentence) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shaheedk/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
