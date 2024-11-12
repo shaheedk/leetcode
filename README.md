@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shaheedk/leetcode/tree/master/0027-remove-element) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaheedk/leetcode/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/shaheedk/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
