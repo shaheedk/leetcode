@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/shaheedk/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaheedk/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shaheedk/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/shaheedk/leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/shaheedk/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shaheedk/leetcode/tree/master/0043-multiply-strings) |
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shaheedk/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/shaheedk/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/shaheedk/leetcode/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
