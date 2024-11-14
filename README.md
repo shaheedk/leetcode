@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shaheedk/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shaheedk/leetcode/tree/master/0326-power-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/shaheedk/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/shaheedk/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/shaheedk/leetcode/tree/master/2556-convert-the-temperature) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2580-circular-sentence](https://github.com/shaheedk/leetcode/tree/master/2580-circular-sentence) |
 ## Sorting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shaheedk/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Prefix Sum
