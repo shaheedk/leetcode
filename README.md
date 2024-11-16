@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/shaheedk/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaheedk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shaheedk/leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/shaheedk/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shaheedk/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
