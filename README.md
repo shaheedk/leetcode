@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/shaheedk/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
+| [0932-monotonic-array](https://github.com/shaheedk/leetcode/tree/master/0932-monotonic-array) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
