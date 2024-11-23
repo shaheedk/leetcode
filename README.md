@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
 | [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2580-circular-sentence](https://github.com/shaheedk/leetcode/tree/master/2580-circular-sentence) |
+| [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
