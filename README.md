@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [0932-monotonic-array](https://github.com/shaheedk/leetcode/tree/master/0932-monotonic-array) |
+| [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/shaheedk/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
+| [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
