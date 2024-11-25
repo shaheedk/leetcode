@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [0932-monotonic-array](https://github.com/shaheedk/leetcode/tree/master/0932-monotonic-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shaheedk/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
