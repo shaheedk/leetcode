@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/shaheedk/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/shaheedk/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/shaheedk/leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/shaheedk/leetcode/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/shaheedk/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
