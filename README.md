@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shaheedk/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shaheedk/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/shaheedk/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shaheedk/leetcode/tree/master/0100-same-tree) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shaheedk/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
