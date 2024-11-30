@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shaheedk/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/shaheedk/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0650-2-keys-keyboard](https://github.com/shaheedk/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shaheedk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/shaheedk/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shaheedk/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/shaheedk/leetcode/tree/master/0650-2-keys-keyboard) |
 ## Memoization
 |  |
 | ------- |
