@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shaheedk/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/shaheedk/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/shaheedk/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/shaheedk/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shaheedk/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/shaheedk/leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
