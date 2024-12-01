@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [0932-monotonic-array](https://github.com/shaheedk/leetcode/tree/master/0932-monotonic-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shaheedk/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shaheedk/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Bit Manipulation
@@ -143,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shaheedk/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shaheedk/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shaheedk/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/shaheedk/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/shaheedk/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
