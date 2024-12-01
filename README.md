@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shaheedk/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/shaheedk/leetcode/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
 ## Sorting
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Bit Manipulation
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
