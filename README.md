@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/shaheedk/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/shaheedk/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shaheedk/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/shaheedk/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/shaheedk/leetcode/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/shaheedk/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaheedk/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/shaheedk/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Brainteaser
 |  |
 | ------- |
