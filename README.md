@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shaheedk/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/shaheedk/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/shaheedk/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/shaheedk/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shaheedk/leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shaheedk/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shaheedk/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shaheedk/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaheedk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shaheedk/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shaheedk/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shaheedk/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaheedk/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
