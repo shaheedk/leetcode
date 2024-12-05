@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shaheedk/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shaheedk/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shaheedk/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/shaheedk/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0650-2-keys-keyboard](https://github.com/shaheedk/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shaheedk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/shaheedk/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shaheedk/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/shaheedk/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/shaheedk/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shaheedk/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shaheedk/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shaheedk/leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
