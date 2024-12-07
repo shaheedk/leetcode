@@ -3,13 +3,13 @@
  * @return {number}
  */
 var finalValueAfterOperations = function(operations) {
-    valX=0
-    for(i=0;i<operations.length;i++){
-        if(operations[i].includes("+")){
-            valX++
-        }else{
-            valX--
-        }
+    let count=0
+  for(let i of operations){
+      if(i==='X++'||i==='++X'){
+        count++
+    }else{
+        count--
     }
-    return valX
+  }
+return count
 };
