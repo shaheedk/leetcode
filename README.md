@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0459-repeated-substring-pattern](https://github.com/shaheedk/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shaheedk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/shaheedk/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaheedk/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/shaheedk/leetcode/tree/master/1894-merge-strings-alternately) |
