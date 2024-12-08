@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/shaheedk/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/shaheedk/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shaheedk/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/shaheedk/leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/shaheedk/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shaheedk/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shaheedk/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shaheedk/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
