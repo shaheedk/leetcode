@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2580-circular-sentence](https://github.com/shaheedk/leetcode/tree/master/2580-circular-sentence) |
 | [2881-split-strings-by-separator](https://github.com/shaheedk/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
+| [3379-score-of-a-string](https://github.com/shaheedk/leetcode/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
