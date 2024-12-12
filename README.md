@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/shaheedk/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shaheedk/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shaheedk/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shaheedk/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/shaheedk/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shaheedk/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/shaheedk/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shaheedk/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
 | [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shaheedk/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shaheedk/leetcode/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shaheedk/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/shaheedk/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/shaheedk/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
