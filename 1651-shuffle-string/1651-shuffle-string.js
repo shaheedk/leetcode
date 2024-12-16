@@ -9,7 +9,7 @@ for (let i = 0; i < indices.length; i++) {
     restoredArr[indices[i]] = s[i];
 }
 
-let restoredString = restoredArr.join("");
-return restoredString
+return restoredArr.join("");
+
     
 };
