@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/shaheedk/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shaheedk/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shaheedk/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shaheedk/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/shaheedk/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/shaheedk/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shaheedk/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaheedk/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shaheedk/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shaheedk/leetcode/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaheedk/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
