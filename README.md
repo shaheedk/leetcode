@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0932-monotonic-array](https://github.com/shaheedk/leetcode/tree/master/0932-monotonic-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shaheedk/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shaheedk/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaheedk/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/shaheedk/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaheedk/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shaheedk/leetcode/tree/master/0292-nim-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaheedk/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
