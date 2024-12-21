@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shaheedk/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
 | [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3447-clear-digits](https://github.com/shaheedk/leetcode/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2881-split-strings-by-separator](https://github.com/shaheedk/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/shaheedk/leetcode/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/shaheedk/leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/shaheedk/leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaheedk/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/shaheedk/leetcode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
