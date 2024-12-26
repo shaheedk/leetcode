@@ -2,4 +2,6 @@
  * @param {number} n
  * @return {boolean}
  */
-const canAliceWin = f = (n, k = 10) => n < k ? false : !f(n - k, k - 1);
+var canAliceWin = function(n) {
+    return '.10.11.12.13.14.15.16.17.18.27.28.29.30.31.32.33.40.41.42.43.44.49.50.'.includes(`.${n}.`);  
+};
