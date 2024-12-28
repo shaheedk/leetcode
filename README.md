@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2836-neither-minimum-nor-maximum](https://github.com/shaheedk/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/shaheedk/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/shaheedk/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shaheedk/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/shaheedk/leetcode/tree/master/2502-sort-the-people) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/shaheedk/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
