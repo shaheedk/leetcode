@@ -12,7 +12,7 @@ var merge = function(nums1, m, nums2, n) {
   merged.sort((a,b)=>a-b)
 
      for (let i = 0; i < merged.length; i++){
-        nums1[i]=merged[i]
+nums1[i]=merged[i]
 
      }
 };
