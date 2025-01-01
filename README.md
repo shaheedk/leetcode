@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0742-to-lower-case](https://github.com/shaheedk/leetcode/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shaheedk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/shaheedk/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shaheedk/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaheedk/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/shaheedk/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shaheedk/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3311-ant-on-the-boundary](https://github.com/shaheedk/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Dynamic Programming
 |  |
