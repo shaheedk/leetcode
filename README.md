@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/shaheedk/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/shaheedk/leetcode/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/shaheedk/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0728-self-dividing-numbers](https://github.com/shaheedk/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shaheedk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shaheedk/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/shaheedk/leetcode/tree/master/1610-xor-operation-in-an-array) |
