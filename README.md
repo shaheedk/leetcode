@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shaheedk/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shaheedk/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/shaheedk/leetcode/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/shaheedk/leetcode/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/shaheedk/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/shaheedk/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shaheedk/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
