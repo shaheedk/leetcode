@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/shaheedk/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shaheedk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shaheedk/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1448-maximum-69-number](https://github.com/shaheedk/leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/shaheedk/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/shaheedk/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/shaheedk/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/shaheedk/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shaheedk/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/shaheedk/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shaheedk/leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
