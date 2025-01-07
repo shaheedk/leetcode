@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/shaheedk/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/shaheedk/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaheedk/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shaheedk/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shaheedk/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/shaheedk/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shaheedk/leetcode/tree/master/0065-valid-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shaheedk/leetcode/tree/master/0020-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaheedk/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/shaheedk/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/shaheedk/leetcode/tree/master/3447-clear-digits) |
