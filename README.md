@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2491-smallest-even-multiple](https://github.com/shaheedk/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shaheedk/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/shaheedk/leetcode/tree/master/2556-convert-the-temperature) |
+| [3371-harshad-number](https://github.com/shaheedk/leetcode/tree/master/3371-harshad-number) |
 | [3625-stone-removal-game](https://github.com/shaheedk/leetcode/tree/master/3625-stone-removal-game) |
 ## Array
 |  |
