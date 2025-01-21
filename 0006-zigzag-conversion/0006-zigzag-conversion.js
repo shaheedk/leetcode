@@ -18,5 +18,7 @@ var convert = function(s, numRows) {
         rows[rowIndex] += s[dividend];
     }
 
+
+  
     return rows.join('');
 };
