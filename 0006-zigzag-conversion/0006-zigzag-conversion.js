@@ -6,6 +6,7 @@
 var convert = function(s, numRows) {
   if(numRows < 2){
         return s;
+    
     }
 
     const divisor = (numRows - 1) * 2;
