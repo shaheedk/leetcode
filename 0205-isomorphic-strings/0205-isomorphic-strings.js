@@ -18,6 +18,7 @@ function isIsomorphic(s, t) {
             if (mapS[charS] !== charT) {
                 return false; // Mapped to different character
             }
+            
         } else {
             mapS[charS] = charT; // Set mapping from charS to charT
         }
