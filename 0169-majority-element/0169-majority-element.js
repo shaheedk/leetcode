@@ -4,6 +4,7 @@
  */
 var majorityElement = function(nums) {
 const  frequency={}
+     
      const majorityCount = Math.floor(nums.length / 2);
      for (let i = 0; i < nums.length; i++) {
         const num = nums[i];
