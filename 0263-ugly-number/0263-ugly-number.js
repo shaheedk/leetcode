@@ -1,7 +1,4 @@
-/**
- * @param {number} n
- * @return {boolean}
- */
+
 var isUgly = function(n) {
     if (n <= 0) return false;  // Negative numbers and 0 are not ugly numbers
     while (n % 2 === 0) n /= 2;  // Divide by 2 as long as it's divisible by 2
