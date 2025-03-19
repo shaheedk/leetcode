@@ -6,6 +6,7 @@
 var isAnagram = function(s, t) {
        if (s.length !== t.length) {
         return false;
+              
     }
 
     // Step 2: Sort and compare
