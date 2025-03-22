@@ -5,6 +5,6 @@ for(let j=i+1;j<nums.length;j++){
         return [i,j]
     }
 }
-      }
-      return []
+ }
+    return []
 };
