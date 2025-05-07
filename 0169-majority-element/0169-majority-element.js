@@ -14,6 +14,6 @@ const  frequency={}
             return num; // Majority element found
         }
     }
-  return null; // No majority element
+  return null; 
 }
 
